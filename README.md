@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Elijah Soladoye, a Frontend heavy Full stack Software Engineer that loves transforming problems into scalable product solutions which offer seamless user experience, one keystroke at a time🔥. Amongst my arsenal, below are a few of my preferred technologies:
+- NextJS
+- ReactJS
+- ReactNative
+- Django
+- Postgres
+
+Some others include:
+- NodeJS
+- MongoDB
+- Angular, 
+- AWS, etc.
+
+Some principles/standards/stacks I also work with:
+Agile & Scrum, MERN, Firebase, ES6+, TypeScript, Jest, Cypress, Figma, CICD etc.
+
+Hobbies: Movies, Basketball, Art, Music, Photography.
+
+Feel free to go through my website here: https://elijahsoladoye.netlify.app to learn more and connect.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_progress=true&theme=dark)
+
+
+<!-- 
+
+![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shodown96\&rank_icon=github&show_icons=true&theme=dark)
+
+<div style="display:flex; flex-wrap:wrap; gap:10px">
+
+![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![Next](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![ReactNative](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+</div>
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/react.svg" />
+
+https://github.com/simple-icons/simple-icons#cdn-usage
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+<!-- https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8 -->
