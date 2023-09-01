@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Elijah Soladoye, a Frontend heavy Full stack Software Engineer that loves transforming problems into scalable product solutions which offer seamless user experience, one keystroke at a time🔥. &nbsp; Amongst my arsenal, below are a few of my preferred technologies:
+I am Elijah Soladoye, a Frontend heavy Full stack Software Engineer that loves transforming problems into scalable product solutions which offer seamless user experience, one keystroke at a time🔥. &nbsp;Amongst my arsenal, below are a few of my preferred technologies:
 - NextJS
 - ReactJS
 - ReactNative
