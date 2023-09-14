@@ -33,7 +33,7 @@ Agile & Scrum, MERN, Firebase, ES6+, TypeScript, Jest, Cypress, Figma, CICD etc.
 
 Hobbies: Movies, Basketball, Art, Music, Photography.
 
-Feel free to go through my website here: https://elijahsoladoye.netlify.app to learn more and connect.
+Feel free to go through my website here: https://elijahsoladoye.vercel.app to learn more and connect.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_progress=true&theme=dark)
