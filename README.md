@@ -35,6 +35,7 @@ Hobbies: Movies, Basketball, Art, Music, Photography.
 
 Feel free to go through my website here: https://elijahsoladoye.vercel.app to learn more and connect.
 
+<!-- ![](https://komarev.com/ghpvc/?username=shodown96) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_progress=true&theme=dark)
 
