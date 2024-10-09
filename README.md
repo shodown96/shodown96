@@ -33,7 +33,7 @@ Agile & Scrum, MERN, Firebase, ES6+, TypeScript, Jest, Cypress, Figma, CICD etc.
 
 Hobbies: Movies, Basketball, Art, Music, Photography.
 
-Feel free to go through my website here: https://elijahsoladoye.vercel.app to learn more and connect.
+Feel free to go through my website here: https://elijahsoladoye.vercel.app to learn more and connect. Please note that most of my React Native projects are in private repositories since they were developed for company products.
 
 <!-- ![](https://komarev.com/ghpvc/?username=shodown96) -->
 
