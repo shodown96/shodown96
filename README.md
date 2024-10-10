@@ -19,11 +19,11 @@ I am Elijah Soladoye, a Frontend heavy Full stack Software Engineer that loves t
 - NextJS
 - ReactJS
 - ReactNative
-- Django
+- NodeJS
 - Postgres
 
 Some others include:
-- NodeJS
+- Django
 - MongoDB
 - Angular, 
 - AWS, etc.
