@@ -15,21 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Elijah Soladoye, a Full stack Software Engineer that loves transforming problems into scalable product solutions which offer seamless user experience, one keystroke at a time🔥. &nbsp;Amongst my arsenal, below are a few of my preferred technologies:
+I am Elijah Soladoye, a Full stack Software Engineer that loves transforming problems into scalable product solutions which offer seamless user experience, one keystroke at a time🔥. &nbsp;Amongst a lot of technologies I use, below are a few of my preferred technologies:
 - NextJS
 - ReactJS
 - ReactNative
 - NodeJS
-- Postgres
-
-Some others include:
 - Django
+- Postgres
 - MongoDB
-- Angular, 
 - AWS, etc.
 
 Some principles/standards/stacks I also work with:
-Agile & Scrum, MERN, Firebase, ES6+, TypeScript, Jest, Cypress, Figma, CICD etc.
+Agile & Scrum, MERN, Firebase, ES6+, TypeScript, Jest, Cypress, Figma, CI/CD etc.
 
 Hobbies: Movies, Basketball, Art, Music, Photography.
 
