@@ -21,7 +21,7 @@ I am Elijah Soladoye, a Full stack Software Engineer that loves transforming pro
 - ReactNative
 - NodeJS
 - Django
-- Postgres
+- PostgreSQL
 - MongoDB
 - AWS, etc.
 
