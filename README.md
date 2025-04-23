@@ -81,8 +81,8 @@ Feel free to go through my website here: https://www.elijahsoladoye.com to learn
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shodown96&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=shodown96&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_border=true&hide_progress=true&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=shodown96&theme=dark&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
