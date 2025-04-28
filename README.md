@@ -35,7 +35,7 @@ Check out my website here: https://www.elijahsoladoye.com to learn more and conn
 
 <!-- ![](https://komarev.com/ghpvc/?username=shodown96) -->
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -80,13 +80,13 @@ Check out my website here: https://www.elijahsoladoye.com to learn more and conn
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 <!-- ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) -->
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shodown96&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=shodown96&theme=dark&hide_border=true)
 ![](https://github-contributor-stats.vercel.app/api?username=shodown96&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_border=true&hide_progress=true&theme=dark)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shodown96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- 
