@@ -86,10 +86,11 @@ Check out my website here: https://www.elijahsoladoye.com to learn more and conn
 ![](https://github-contributor-stats.vercel.app/api?username=shodown96&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_border=true&hide_progress=true&theme=dark)
 
+
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shodown96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- 
 
 ![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=shodown96\&rank_icon=github&show_icons=true&theme=dark)
 
