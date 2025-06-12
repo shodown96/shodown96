@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Software Engineer who loves building reliable and secure products that reach thousands, and even more, while still feeling smooth and intuitive to use, one keystroke at a time🔥.
 
+I’m looking to contribute to Open source projects
+
 I work across a range of technologies, but here are some of my go-to tools:
 
 - **Frontend & Mobile:** Next.js, React.js, React Native  
