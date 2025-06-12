@@ -81,10 +81,12 @@ Check out my website here: https://www.elijahsoladoye.com to learn more and conn
 <!-- ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) -->
 
 ## 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shodown96&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=shodown96&theme=dark&hide_border=true) -->
-![](https://github-contributor-stats.vercel.app/api?username=shodown96&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shodown96&theme=dark&hide_border=true&include_all_commits=true&count_private=false) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shodown96\&hide_border=true&hide_progress=true&theme=dark)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shodown96&theme=dark&hide_border=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=shodown96&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 
 <!-- 
