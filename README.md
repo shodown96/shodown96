@@ -29,7 +29,7 @@ Other tools, stacks, and practices I regularly work with include:
 - Testing: Jest, Cypress  
 - Design & Prototyping: Figma  
 
-When I’m not coding, you’ll probably find me diving into movies, shooting hoops, exploring art, vibing to music, or capturing moments with photography📸.
+When I’m not coding, you’ll probably find me building scenes and rednering animations with Unreal Engine in a bid to tell immersive stories.
 
 Check out my website here: https://www.elijahsoladoye.com to learn more and connect.  
 
