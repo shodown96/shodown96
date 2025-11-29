@@ -19,10 +19,10 @@ Other tools, stacks, and practices I regularly work with include:
 
 When I’m not coding, you’ll probably find me building scenes and rendering animations with Unreal Engine in a bid to tell immersive stories.
 Feel free to check out what I've built using Unreal Engine Here: 
-- https://drive.google.com/drive/folders/1PiWN_7rwIHJ2dg5M0NkYa_VyIoTpZfdx?usp=sharing
-- https://www.instagram.com/tech.x.art
+- ![Devlog Drive Folder](https://drive.google.com/drive/folders/1PiWN_7rwIHJ2dg5M0NkYa_VyIoTpZfdx?usp=sharing)
+- ![IG Page](https://www.instagram.com/tech.x.art)
 
-Check out my website here: https://www.elijahsoladoye.com to learn more and connect.  
+You can also check out my website here: https://www.elijahsoladoye.com to learn more and connect.  
 
 <!-- ![](https://komarev.com/ghpvc/?username=shodown96) -->
 
