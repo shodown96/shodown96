@@ -22,7 +22,7 @@ Feel free to check out what I've built using Unreal Engine Here:
 - [Devlog Drive Folder](https://drive.google.com/drive/folders/1PiWN_7rwIHJ2dg5M0NkYa_VyIoTpZfdx?usp=sharing)
 - [IG Page](https://www.instagram.com/tech.x.art)
 
-You can also check out my website here: https://www.elijahsoladoye.com to learn more and connect.  
+You can also check out [my website](https://www.elijahsoladoye.com) to learn more and connect.  
 
 <!-- ![](https://komarev.com/ghpvc/?username=shodown96) -->
 
