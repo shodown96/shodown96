@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**shodown96/shodown96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm a Full-Stack Software Engineer who loves building products that are compromised in terms of security, reliability and user experience.
 
 I’m open to contribute to Open source projects
@@ -33,6 +18,9 @@ Other tools, stacks, and practices I regularly work with include:
 - Design & Prototyping: Figma  
 
 When I’m not coding, you’ll probably find me building scenes and rendering animations with Unreal Engine in a bid to tell immersive stories.
+Feel free to check out what I've built using Unreal Engine Here: 
+- https://drive.google.com/drive/folders/1PiWN_7rwIHJ2dg5M0NkYa_VyIoTpZfdx?usp=sharing
+- https://www.instagram.com/tech.x.art
 
 Check out my website here: https://www.elijahsoladoye.com to learn more and connect.  
 
