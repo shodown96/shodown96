@@ -19,15 +19,16 @@ I'm a Full-Stack Software Engineer who loves building products that are compromi
 
 I’m open to contribute to Open source projects
 
-I work across a range of technologies, but here are some of my go-to tools:
+I work across a range of technologies, but here are some of my go-to:
 
+- **Programming Languages:** Python, Rust, Typescript, Javasacript (ES6)
 - **Frontend & Mobile:** Next.js, React.js, React Native  
 - **Backend:** Express, Hono, Django, FastAPI  
 - **Databases:** PostgreSQL, MongoDB  
 - **Cloud & DevOps:** AWS, CI/CD pipelines
 
 Other tools, stacks, and practices I regularly work with include:
-- Agile & Scrum, MERN stack, Firebase, ES6+, TypeScript  
+- Agile & Scrum, MERN stack, Firebase  
 - Testing: Jest, Cypress  
 - Design & Prototyping: Figma  
 
